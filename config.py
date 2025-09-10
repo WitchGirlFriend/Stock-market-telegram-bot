@@ -1,0 +1,2 @@
+TOKEN = '[REDACTED]'
+CHAT_ID = '[REDACTED]'
